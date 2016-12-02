@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex8</string>
+    <string name="tv">Hello,you can use this appliction to check \n your skills on temperature conversion,\n or calculate the correct value</string>
+    <string name="Bravo">Bravo!, the temperature C,is indeed </string>
+    <string name="oops">Oops!, your answer is wrong, you may try again</string>
+    <string name="conver">The temperature , is converted to</string>
+</resources>
